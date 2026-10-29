@@ -1,0 +1,6 @@
+{
+  "name": "SaQu: Klasifikasi Makhluk Hidup",
+  "description": "Aplikasi pembelajaran inkuiri kolaboratif IPA Biologi Kelas VII SMP: Karakteristik Makhluk Hidup, Kunci Determinasi, Tingkatan Takson, 5 Kingdom Whittaker, Pretest & Posttest, dan Turnamen TGT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
